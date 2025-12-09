@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Shruti  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shruti627&label=Profile%20Views&color=blue&style=flat)
 
 ### 🚀 Full-Stack Developer | GenAI Engineer | Logic-Driven Coder
 
