@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Shruti  
 
-<!--
-**Shruti627/Shruti627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Shruti627&label=Profile%20Views&color=blue&style=flat)
 
-Here are some ideas to get you started:
+### 🚀 Full-Stack Developer | GenAI Engineer | Logic-Driven Coder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I engineer scalable web applications and AI-driven solutions where clean logic meets intelligent automation.
+
+- 🎓 Academic Topper (CGPA: **10.00**)  
+- 💻 Full-stack development: **React, MERN, Java (Servlets/JSP/JDBC), Spring Boot**  
+- 🤖 Skilled in **Python, LLMs, RAG pipelines, LangChain, Spring AI & AI automation**  
+- 🔧 Strong focus on **system design, clean architecture, and performance**  
+- 🤝 Open to collaborations on **Web Apps, GenAI, Enterprise Backend Projects**
+
+---
+
+## 🛠️ Core Skills
+
+### Frontend
+React · JavaScript · HTML · CSS · Next.js
+
+### Backend
+Java · Spring Boot · Servlets · JSP · JDBC · REST APIs · MySQL · Maven
+
+### AI / GenAI
+Python · LLMs · LangChain · RAG Pipelines · Spring AI · Vector Search
+
+### Full-Stack & Systems
+MERN Stack · Authentication · State Management · API Integration · Deployment
+
+---
+
+## 📌 Engineering Approach
+- Writing **clean, maintainable, scalable code**  
+- Solving complex problems with **logical and AI-driven solutions**  
+- Delivering **end-to-end applications from UI → Backend → AI Layer**  
+
+---
+
+⭐ *Engineering robust systems where logic meets intelligence.*
