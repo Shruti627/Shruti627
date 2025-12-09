@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Developer | GenAI Engineer | Logic-Driven Coder
 
-I engineer scalable web applications and AI-driven solutions where clean logic meets intelligent automation.
+"I build scalable web applications and AI-driven solutions where clean logic meets intelligent automation." ✅
 
 - 🎓 Academic Topper (CGPA: **10.00**)  
 - 💻 Full-stack development: **React, MERN, Java (Servlets/JSP/JDBC), Spring Boot**  
